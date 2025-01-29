@@ -3,18 +3,13 @@
 </p>
 
 <h3 align="center"> 
-    <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"> Hi, I'm **SAARTHAK!** Your friendly Automation Software Developer 🚀
+    <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"> Hi, I'm SAARTHAK MUDIGERE GIRTSH! Your friendly Automation Software Developer 🚀
 </h3>
 
 <p align="center">
     <!-- Profile Views -->
     <a href="https://komarev.com/ghpvc/?username=mudiger">
         <img src="https://komarev.com/ghpvc/?username=mudiger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </a>
-    &emsp;
-    <!-- GitHub Commit Activity -->
-    <a href="https://github.com/mudiger">
-        <img src="https://img.shields.io/github/commit-activity/m/mudiger?style=flat-square" alt="Commit Activity">
     </a>
     &emsp;
     <!-- GitHub Followers -->
@@ -139,8 +134,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MD-MAFUJUL-HASAN&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MD-MAFUJUL-HASAN&theme=dracula)](https://github.com/MD-MAFUJUL-HASAN/github-profile-trophy)
 <br /> 
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
