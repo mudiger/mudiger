@@ -24,9 +24,6 @@
     </a> 
 </p>
 
-
-<br />
-
 ## <picture><img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif" width = 250px></picture>
 
