@@ -10,16 +10,17 @@
 <p align="center">
     <!-- Profile Views -->
     <a href="https://komarev.com/ghpvc/?username=mudiger">
-        <img src="https://komarev.com/ghpvc/?username=mudiger&label=Profile%20Views%20👀&color=0e75b6&style=flat" alt="Profile Views 👀" />
+        <img src="https://komarev.com/ghpvc/?username=mudiger&label=%20Profile%20Views%20👀%20&color=0e75b6&style=flat" alt="Profile Views 👀" />
     </a>
 </p>
 <p align="center">
+  <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white">
+    </a> &emsp;
     <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/-saarthakmudigere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
-    </a> &emsp;
-    <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-    </a>
+    </a> 
+    
 </p>
 
 
