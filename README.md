@@ -8,7 +8,6 @@
 
 <p align="center">
     <!-- Profile Views -->
-    <!-- Profile Views -->
     <a href="https://komarev.com/ghpvc/?username=mudiger">
         <img src="https://komarev.com/ghpvc/?username=mudiger&label=%20Profile%20Views%20%20👀%20%20&color=0e75b6&style=flat" alt="Profile Views 👀" />
     </a>
@@ -82,6 +81,17 @@
     <a href="mailto:mdtonmoy13.mt@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p></div> 
 <br />
+
+## 📬 **Contact Me**
+
+<a href="mailto:saarthakmudigere@gmail.com">
+    <img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg">
+</a> : saarthakmudigere@gmail.com  
+
+<a href="https://www.linkedin.com/in/mudigere/">
+    <img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
+</a> : [linkedin.com/in/mudigere](https://www.linkedin.com/in/mudigere/)
+
   
 
 <div align="center">
@@ -125,29 +135,7 @@
 
 ---
 
-## 💼 **About Me**
-👨‍💻 **Name:** [Your Name]  
-🏢 **Current Role:** Automation Software Developer  
-📍 **Location:** [Your Location]  
-🚀 **Tech Stack:** Python, JavaScript, Selenium, Tosca, Docker, Kubernetes, DevOps  
-📚 **Learning:** Cloud Computing, Kubernetes, Terraform  
 
----
-
-## 📂 **Projects**
-### 🚀 Featured Projects
-| Project Name | Description | Tech Stack |
-|-------------|-------------|-------------|
-| [📌 Project 1](https://github.com/your-username/project1) | Automated testing framework for web applications | Selenium, Python |
-| [📌 Project 2](https://github.com/your-username/project2) | CI/CD pipeline with Docker & Kubernetes | Docker, K8s, Terraform |
-
----
-
-## 📬 **Contact Me**
-📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🐦 **Twitter:** [twitter.com/your-handle](https://twitter.com/your-handle)  
-🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
 
 ---
 
