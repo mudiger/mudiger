@@ -13,7 +13,6 @@
         <img src="https://komarev.com/ghpvc/?username=mudiger&label=Profile%20Views%20👀&color=0e75b6&style=flat" alt="Profile Views 👀" />
     </a>
 </p>
-<br />
 <p align="center">
     <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/-saarthakmudigere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
