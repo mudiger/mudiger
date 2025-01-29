@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center"> 
-    <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"></a> Hi, I'm SAARTHAK! Your friendly Automation Software Developer <img align="center" alt="GIF" width="30"  src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="36"/>
+    <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"> Hi, I'm **SAARTHAK!** Your friendly Automation Software Developer 🚀
 </h3>
 
 <p align="center">
