@@ -85,12 +85,12 @@
 ## 📬 **Contact Me**
 
 <a href="mailto:saarthakmudigere@gmail.com">
-    <img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg">
+    <img alt="Gmail" width="20px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg">
 </a> : saarthakmudigere@gmail.com  
 
 <a href="https://www.linkedin.com/in/mudigere/">
-    <img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
-</a> : [linkedin.com/in/mudigere](https://www.linkedin.com/in/mudigere/)
+    <img alt="LinkedIn" width="20px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
+</a> : https://www.linkedin.com/in/mudigere/
 
   
 
