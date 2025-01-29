@@ -27,13 +27,11 @@
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<pre>
-- I'm a Master’s graduate in Computer Science with a passion for software development and DevOps. 
+<div style="background-color: #1e1e1e; color: #ffffff; padding: 10px; border-radius: 5px; font-family: monospace; white-space: pre-wrap; overflow-y: auto; max-height: 60px;">
+I'm a Master’s graduate in Computer Science with a passion for software development and DevOps.
+My expertise includes full-stack development, test automation, cloud computing (AWS, Azure), and CI/CD pipelines.
+</div>
 
--My expertise includes full-stack development, test automation, cloud computing (AWS, Azure), and CI/CD pipelines. 
-  
--I enjoy building scalable solutions, optimizing workflows, and automating processes to improve efficiency. Always excited to learn and take on new challenges! 🚀
-</pre>
 
 
 
