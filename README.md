@@ -27,10 +27,13 @@
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<div style="background-color: #1e1e1e; color: #ffffff; padding: 10px; border-radius: 5px; font-family: monospace; white-space: pre-wrap; overflow-y: auto; max-height: 60px;">
+<div style="background-color: #1e1e1e; color: #ffffff; padding: 10px; border-radius: 5px; font-family: monospace; white-space: pre-wrap; overflow-y: auto; max-height: 50px;">
+<code>
 I'm a Master’s graduate in Computer Science with a passion for software development and DevOps.
 My expertise includes full-stack development, test automation, cloud computing (AWS, Azure), and CI/CD pipelines.
+</code>
 </div>
+
 
 
 
