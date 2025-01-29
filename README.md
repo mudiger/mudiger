@@ -115,3 +115,40 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{0_My_Template}/count.svg" alt="0_My_Template :: Visitor's Count" /></p>
 </div>
 
+
+## 📊 **GitHub Stats**
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+    &emsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="50%"/>
+</p>
+
+---
+
+## 💼 **About Me**
+👨‍💻 **Name:** [Your Name]  
+🏢 **Current Role:** Automation Software Developer  
+📍 **Location:** [Your Location]  
+🚀 **Tech Stack:** Python, JavaScript, Selenium, Tosca, Docker, Kubernetes, DevOps  
+📚 **Learning:** Cloud Computing, Kubernetes, Terraform  
+
+---
+
+## 📂 **Projects**
+### 🚀 Featured Projects
+| Project Name | Description | Tech Stack |
+|-------------|-------------|-------------|
+| [📌 Project 1](https://github.com/your-username/project1) | Automated testing framework for web applications | Selenium, Python |
+| [📌 Project 2](https://github.com/your-username/project2) | CI/CD pipeline with Docker & Kubernetes | Docker, K8s, Terraform |
+
+---
+
+## 📬 **Contact Me**
+📧 **Email:** your.email@example.com  
+🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+🐦 **Twitter:** [twitter.com/your-handle](https://twitter.com/your-handle)  
+🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+
+---
+
+⭐ **If you liked this, consider starring my repos!** 🌟
