@@ -9,18 +9,9 @@
 <p align="center">
     <!-- Profile Views -->
     <a href="https://komarev.com/ghpvc/?username=mudiger">
-        <img src="https://komarev.com/ghpvc/?username=mudiger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=mudiger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views :eyes:" />
     </a>
     &emsp;
-    <!-- GitHub Followers -->
-    <a href="https://github.com/mudiger?tab=followers">
-        <img src="https://img.shields.io/github/followers/mudiger?color=4C1&logo=github&style=flat-square" alt="GitHub Followers">
-    </a>
-    &emsp;
-    <!-- Last Commit -->
-    <a href="https://github.com/mudiger">
-        <img src="https://img.shields.io/github/last-commit/mudiger?label=Last%20Updated&style=flat-square" alt="Last Commit">
-    </a>
 </p>
 
 <div align="center"><a href="https://www.buymeacoffee.com/mhtonmoy13" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
