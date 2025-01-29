@@ -8,8 +8,9 @@
 
 <p align="center">
     <!-- Profile Views -->
+    <!-- Profile Views -->
     <a href="https://komarev.com/ghpvc/?username=mudiger">
-        <img src="https://komarev.com/ghpvc/?username=mudiger&label=Profile%20Views%20👀&color=0e75b6&style=flat" alt=" Profile Views 👀 " />
+        <img src="https://komarev.com/ghpvc/?username=mudiger&label=%20Profile%20Views%20%20👀%20%20&color=0e75b6&style=flat" alt="Profile Views 👀" />
     </a>
 </p>
 
