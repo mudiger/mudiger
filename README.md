@@ -27,18 +27,7 @@
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<style>
-  pre {
-    width: 300px; /* Adjust width as needed */
-    white-space: pre-wrap; /* Wrap text to fit within the box */
-    word-wrap: break-word; /* Break long words if necessary */
-    padding: 10px;
-    border: 1px solid #ccc;
-    background-color: #f8f8f8;
-  }
-</style>
-
-<pre  width: 300px;>
+<pre>
 I'm a Master’s graduate in Computer Science with a passion for software 
 development and DevOps. My expertise includes full-stack development, 
 test automation, cloud computing (AWS, Azure), and CI/CD pipelines. 
