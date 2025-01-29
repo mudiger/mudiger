@@ -24,6 +24,15 @@
     </a> 
 </p>
 
+<p align="center">
+    <a href="mailto:saarthakmudigere@gmail.com">
+        <img alt="Gmail" width="15px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg">
+    </a> 
+    &nbsp;
+    <a href="https://www.linkedin.com/in/mudigere/">
+        <img alt="LinkedIn" width="15px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
+    </a>
+</p>
 
 
 <br />
