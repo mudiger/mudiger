@@ -25,7 +25,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif" width = 250px></picture>
+
 
 <pre>
 I'm a Master’s graduate in Computer Science with a passion for software development and DevOps. My expertise includes full-stack development, test automation, cloud computing (AWS, Azure), and CI/CD pipelines. I enjoy building scalable solutions, optimizing workflows, and automating processes to improve efficiency. Always excited to learn and take on new challenges! 🚀
@@ -35,7 +35,7 @@ I'm a Master’s graduate in Computer Science with a passion for software develo
 
 
 
-
+<picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif" width = 250px></picture>
 - All about me is at **[Portfolio](https://tonmoysu.netlify.app/)**
 
 - My name is `MD Mafujul Hasan` and I am a `Computer Science and Engineering` student at `Sonargaon University` in Dhaka, Bangladesh.
