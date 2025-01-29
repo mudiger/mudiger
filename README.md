@@ -7,16 +7,26 @@
 </h3>
 
 <p align="center">
+    <!-- Profile Views -->
+    <a href="https://komarev.com/ghpvc/?username=mudiger">
+        <img src="https://komarev.com/ghpvc/?username=mudiger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
     &emsp;
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0_My_Template%2F%26title%3DProfile%2520Views&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a>
+    <!-- GitHub Commit Activity -->
+    <a href="https://github.com/mudiger">
+        <img src="https://img.shields.io/github/commit-activity/m/mudiger?style=flat-square" alt="Commit Activity">
+    </a>
     &emsp;
-    <a href="https://github.com/mudiger/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/mudiger" /></a>
+    <!-- GitHub Followers -->
+    <a href="https://github.com/mudiger?tab=followers">
+        <img src="https://img.shields.io/github/followers/mudiger?color=4C1&logo=github&style=flat-square" alt="GitHub Followers">
+    </a>
     &emsp;
-    <a href="https://github.com/MD-MAFUJUL-HASAN?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/MD-MAFUJUL-HASAN?color=4C1&logo=github"></a>
-    &emsp;
-    <a href="https://github.com/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN?label=Profile%20update&style=fflat-square"></a>
-    &emsp;
-</p> 
+    <!-- Last Commit -->
+    <a href="https://github.com/mudiger">
+        <img src="https://img.shields.io/github/last-commit/mudiger?label=Last%20Updated&style=flat-square" alt="Last Commit">
+    </a>
+</p>
 
 <div align="center"><a href="https://www.buymeacoffee.com/mhtonmoy13" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
 <br />
