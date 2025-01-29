@@ -16,7 +16,7 @@
 <p align="center">
     &emsp;
     <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
-         <img alt="LinkedIn" width="15px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+         <img alt="LinkedIn" width="20px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
     </a> 
     &nbsp;
     <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
