@@ -10,7 +10,7 @@
     &emsp;
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0_My_Template%2F%26title%3DProfile%2520Views&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a>
     &emsp;
-    <a href="https://github.com/mudiger/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN" /></a>
+    <a href="https://github.com/mudiger/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/mudiger" /></a>
     &emsp;
     <a href="https://github.com/MD-MAFUJUL-HASAN?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/MD-MAFUJUL-HASAN?color=4C1&logo=github"></a>
     &emsp;
