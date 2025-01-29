@@ -26,7 +26,7 @@
 
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
-<div style="width: 20%; height: 40px; overflow-y: scroll; white-space: nowrap; line-height: 20px;">
+<div style="width: 20%; height: 20px; overflow-y: scroll; white-space: nowrap; line-height: 20px;">
 <pre>
   I'm a Master's graduate in Computer Science with a passion for software development and DevOps.
   My expertise includes full-stack development. I enjoy building scalable solutions, optimizing workflows,
