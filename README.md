@@ -18,6 +18,7 @@
     <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
     </a> 
+    &emsp;
     <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/-saarthakmudigere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
     </a> 
