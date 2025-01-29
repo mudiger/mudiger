@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center"> 
-    <img src="https://raw.githubusercontent.com/mudiger/mudiger/main/hello.gif" width="21"> 
+    <img src="https://github.com/mudiger/mudiger/blob/main/hello.gif" width="21"> 
     Hi, I'm <b>SAARTHAK MUDIGERE GIRTSH!</b> Your friendly Software Developer 🚀
 </h3>
 
@@ -16,7 +16,7 @@
 <p align="center">
     &emsp;
     <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
-         <img alt="LinkedIn" width="20px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+         <img alt="LinkedIn" width="20px" src="https://github.com/mudiger/mudiger/blob/main/Linkedin%20Logo.png"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
     </a> 
     &nbsp;
     <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
