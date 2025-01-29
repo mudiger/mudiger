@@ -16,22 +16,12 @@
 <p align="center">
     &emsp;
     <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+         <img alt="LinkedIn" width="15px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
     </a> 
     &nbsp;
     <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/-saarthakmudigere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
     </a> 
-</p>
-
-<p align="center">
-    <a href="mailto:saarthakmudigere@gmail.com">
-        <img alt="Gmail" width="15px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg">
-    </a> 
-    &nbsp;
-    <a href="https://www.linkedin.com/in/mudigere/">
-        <img alt="LinkedIn" width="15px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
-    </a>
 </p>
 
 
@@ -92,28 +82,6 @@
     &emsp;
 </p>
 <br />
-
-<div align="center">
-<h3> <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/bar.gif" width="30" height="30" style="margin-right: 10px;">Connect With Me<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Handshake.gif" width="60">
-</h3> 
-<p align="center">
-    <a href="https://www.linkedin.com/in/md-mafujul-hasan" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="https://www.instagram.com/_md_mafujul_hasan_" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
-    <a href="https://www.facebook.com/mh.tonmoy.13" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
-    <a href="mailto:mdtonmoy13.mt@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-</p></div> 
-<br />
-
-## 📬 **Contact Me**
-
-<a href="mailto:saarthakmudigere@gmail.com">
-    <img alt="Gmail" width="15px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg">
-</a> saarthakmudigere@gmail.com  
-<br>
-
-<a href="https://www.linkedin.com/in/mudigere/">
-    <img alt="LinkedIn" width="15px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
-</a> [linkedin.com/in/mudigere](https://www.linkedin.com/in/mudigere/)
   
 
 <div align="center">
