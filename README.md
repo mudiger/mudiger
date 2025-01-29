@@ -28,9 +28,7 @@
 
 
 <pre>
-I'm a Master’s graduate in Computer Science with a passion for software 
-development and DevOps. My expertise includes full-stack development, 
-test automation, cloud computing (AWS, Azure), and CI/CD pipelines. 
+I'm a Master’s graduate in Computer Science with a passion for software development and DevOps. My expertise includes full-stack development, test automation, cloud computing (AWS, Azure), and CI/CD pipelines. 
 I enjoy building scalable solutions, optimizing workflows, and 
 automating processes to improve efficiency. Always excited to learn 
 and take on new challenges! 🚀
