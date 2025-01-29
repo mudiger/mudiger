@@ -1,26 +1,28 @@
 <p align="center">
-  <img src="https://github.com/mudiger/mudiger/blob/main/Software%20Developer%20LinkedIn%20Banner.gif" height="200"/>
+  <img src="https://raw.githubusercontent.com/mudiger/mudiger/main/Software%20Developer%20LinkedIn%20Banner.gif" height="200"/>
 </p>
 
 <h3 align="center"> 
-    <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"> Hi, I'm SAARTHAK MUDIGERE GIRTSH! Your friendly Software Developer 🚀
+    <img src="https://raw.githubusercontent.com/mudiger/mudiger/main/hello.gif" width="21"> 
+    Hi, I'm <b>SAARTHAK MUDIGERE GIRTSH!</b> Your friendly Software Developer 🚀
 </h3>
 
 <p align="center">
     <!-- Profile Views -->
     <a href="https://komarev.com/ghpvc/?username=mudiger">
-        <img src="https://komarev.com/ghpvc/?username=mudiger&label=%20Profile%20Views%20%20👀%20%20&color=0e75b6&style=flat" alt="Profile Views 👀" />
+        <img src="https://komarev.com/ghpvc/?username=mudiger&label=Profile%20Views%20👀&color=0e75b6&style=flat" alt="Profile Views 👀" />
     </a>
 
-    <br/>
+    <br/><br/>
+
+    <!-- Contact Badges -->
     <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
       <img alt="Gmail" src="https://img.shields.io/badge/-saarthakmudigere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
-    </a>
+    </a> &nbsp;
     
     <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
     </a>
-
 </p>
 
 <br />
