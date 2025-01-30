@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center"> 
+    <img src="https://github.com/mudiger/mudiger/blob/main/hello.gif" width="21"> 
     Hi, I'm <b>SAARTHAK MUDIGERE GIRISH!</b> Software Developer 🚀
 </h3>
 
