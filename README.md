@@ -27,9 +27,20 @@
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <pre>
-I'm a Master's graduate in Computer Science with a passion for software development and DevOps. My expertise includes full-stack development.
-I enjoy building scalable solutions, optimizing workflows, and automating processes to improve efficiency. Always excited to learn and take on new challenges! 🚀
-
+def introduce_myself():
+    intro = (
+        "I'm a Master’s graduate in Computer Science with a passion for software development and DevOps.",
+        "My expertise includes full-stack development, automation, cloud computing (AWS, Azure), and CI/CD pipelines.",
+        "I enjoy building scalable solutions, optimizing workflows, and automating processes to improve efficiency.", 
+        "Always excited to learn and take on new challenges! 🚀"
+    )
+    
+    fun_facts = [
+        "I turn coffee into code! ☕💻",
+        "Automating tasks so I can be lazy... but efficiently! 😎",
+    ]
+    
+    return value
 </pre>
 
 
