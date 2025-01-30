@@ -26,10 +26,11 @@
 
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
-<pre>
-I'm a Master's graduate in Computer Science with a passion for software development and DevOps. My expertise includes full-stack development. 
-I enjoy building scalable solutions, optimizing workflows, and automating processes to improve efficiency. Always excited to learn and take on new challenges! 🚀
-</pre>
+<p style="font-size: 24px;">
+  I'm a Master's graduate in Computer Science with a passion for software development and DevOps. My expertise includes full-stack development. 
+  I enjoy building scalable solutions, optimizing workflows, and automating processes to improve efficiency. Always excited to learn and take on new challenges! 🚀
+</p>
+
 
 
 <picture> <img align="right" src="https://github.com/mudiger/mudiger/blob/main/programming.gif" width = 250px></picture>
