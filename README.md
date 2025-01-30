@@ -28,7 +28,7 @@
 <p align="center">
     &emsp;
     <a href="https://getsmg.vercel.app/" target="_blank">
-        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white">
+        <img alt="Portfolio" src="https://img.shields.io/badge/Personal Website-%23000000.svg?style=flat-square&logo=vercel&logoColor=white">
     </a>
 </p>
 
