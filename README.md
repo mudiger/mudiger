@@ -46,28 +46,9 @@ def introduce_myself():
 </pre>
 
 
-
-
 <picture> <img align="right" src="https://github.com/mudiger/mudiger/blob/main/programming.gif" width = 250px></picture>
-- All about me is at **[Portfolio](https://tonmoysu.netlify.app/)**
-
-- My name is `MD Mafujul Hasan` and I am a `Computer Science and Engineering` student at `Sonargaon University` in Dhaka, Bangladesh.
 
 - I am proficient in various programming languages such as `C, C++, Java, Python, HTML, CSS, PHP, and JavaScript`.
-
-- I also have experience working with frameworks and libraries such as `NodeJS, ReactJS, OpenCV, Pandas, and NumPy`.
-
-- Whenever possible, I also apply my passion for developing products with `Modern Javascript Library and Frameworks`.
-
-- In my free time, I enjoy learning new technologies and `building new web technologies and products`.
-
-- I’m currently open for a new `job opportunity`.
-  
-- Reach me: <a href="mailto:mdtonmoy13.mt@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-mdtonmoy13.mt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-
-- Add me on <a href="https://www.linkedin.com/in/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-green">
-
-- All of my projects are available at <a href="https://github.com/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/Github-008080">
 
 <p align="center">
     &emsp;
@@ -102,7 +83,7 @@ def introduce_myself():
 </p>
 <br />
   
-
+- I also have experience working with frameworks and libraries such as `NodeJS, ReactJS, OpenCV, Pandas, and NumPy`.
 <div align="center">
 <h3> Tech Stack<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="60">
 </h3>
