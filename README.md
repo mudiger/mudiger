@@ -27,23 +27,22 @@
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <div style="
-    width: 250px; 
-    height: 40px; 
+    width: 300px; /* Adjust width */
+    height: 50px; /* Adjust height */
     overflow-y: auto; 
-    overflow-x: hidden; 
-    white-space: nowrap; 
-    line-height: 20px; 
-    font-size: 14px; 
-    border: 1px solid #ccc; 
-    padding: 5px; 
+    overflow-x: auto; 
+    white-space: pre; 
+    font-family: monospace; 
     background-color: #0d1117; 
     color: #c9d1d9; 
-    font-family: monospace;
+    border: 1px solid #30363d; 
+    padding: 10px;
 ">
-  I'm a Master's graduate in Computer Science with a passion for software development and DevOps. 
-  My expertise includes full-stack development. I enjoy building scalable solutions, optimizing workflows, 
-  and automating processes to improve efficiency. Always excited to learn and take on new challenges! 🚀
+I'm a Master's graduate in Computer Science with a passion for software development and DevOps. 
+My expertise includes full-stack development. I enjoy building scalable solutions, optimizing workflows, 
+and automating processes to improve efficiency. Always excited to learn and take on new challenges! 🚀
 </div>
+
 
 <pre>
   I'm a Master's graduate in Computer Science with a passion for software development and DevOps. My expertise includes full-stack development. I enjoy building scalable solutions, optimizing workflows, 
