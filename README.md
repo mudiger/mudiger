@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center"> 
-    <img src="https://github.com/mudiger/mudiger/blob/main/hello.gif" width="21"> 
+    <img src="https://github.com/mudiger/mudiger/blob/main/public/images/hello.gif" width="21"> 
     Hi, I'm <b>SAARTHAK MUDIGERE GIRISH!</b> Software Developer 🚀
 </h3>
 
@@ -16,7 +16,7 @@
 <p align="center">
     &emsp;
     <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
-         <img alt="LinkedIn" width="20px" src="https://github.com/mudiger/mudiger/blob/main/Linkedin%20Logo.png"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+         <img alt="LinkedIn" width="20px" src="https://github.com/mudiger/mudiger/blob/main/public/images/Linkedin%20Logo.png"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
     </a> 
     &nbsp;
     <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
@@ -26,7 +26,7 @@
     <a href="https://leetcode.com/u/saarthakmudigere/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 </p>
 
-## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/mudiger/mudiger/public/images/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <pre>
 def introduce_myself():
