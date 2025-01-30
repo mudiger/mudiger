@@ -80,7 +80,7 @@ def introduce_myself():
 </p>
 <br />
   
-- I also have experience working with frameworks and libraries such as `NodeJS, ReactJS, OpenCV, Pandas, and NumPy`.
+- Developer Tools
 <div align="center">
 <h3> Tech Stack<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="60">
 </h3>
