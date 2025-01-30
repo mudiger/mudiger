@@ -32,14 +32,7 @@ I enjoy building scalable solutions, optimizing workflows, and automating proces
 </pre>
 
 
-
-
-
-
-
-
-
-<picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/mudiger/mudiger/blob/main/programming.gif" width = 250px></picture>
 - All about me is at **[Portfolio](https://tonmoysu.netlify.app/)**
 
 - My name is `MD Mafujul Hasan` and I am a `Computer Science and Engineering` student at `Sonargaon University` in Dhaka, Bangladesh.
