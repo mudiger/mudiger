@@ -46,10 +46,7 @@ def introduce_myself():
 </pre>
 
 
-<picture> <img align="right" src="https://github.com/mudiger/mudiger/blob/main/programming.gif" width = 250px></picture>
-
-- I am proficient in various programming languages such as `C, C++, Java, Python, HTML, CSS, PHP, and JavaScript`.
-
+## Programming Languages:
 <p align="center">
     &emsp;
     <a href="https://github.com/MD-MAFUJUL-HASAN?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
