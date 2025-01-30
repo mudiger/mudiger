@@ -57,6 +57,6 @@ def introduce_myself():
 </p>
 
 
-<p align="center"> 
+<h3 align="center"> 
 🌟 If you found this helpful, please consider starring my repositories and following me for more updates!🌟
-</p>
+</h3>
