@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mudiger/mudiger/main/Software%20Developer%20LinkedIn%20Banner.gif" height="200"/>
+  <img src="https://raw.githubusercontent.com/mudiger/mudiger/main/public/images/Software%20Developer%20LinkedIn%20Banner.gif" height="200"/>
 </p>
 
 <h3 align="center"> 
