@@ -25,6 +25,12 @@
     &nbsp;
     <a href="https://leetcode.com/u/saarthakmudigere/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 </p>
+<p align="center">
+    &emsp;
+    <a href="https://getsmg.vercel.app/" target="_blank">
+        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white">
+    </a>
+</p>
 
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/public/images/about_me.gif?raw=true" width = 50px></picture> About me
 
