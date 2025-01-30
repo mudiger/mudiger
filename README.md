@@ -56,5 +56,5 @@ def introduce_myself():
 
 
 <p align="center"> 
-⭐ **If you liked this, consider starring my repos!** 🌟
+🌟 If you found this helpful, please consider starring my repositories and following me for more updates!🌟
 </p>
